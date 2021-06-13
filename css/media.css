@@ -1,0 +1,208 @@
+@media (min-width: 576px) and (max-width: 768px){
+    .header {
+        min-height: 65vh;}
+        .populer_burger img {
+            width: 56% !important;
+        }
+        .populer_text h4,.fun_text h4,.chilly_text h4  {
+            font-size: 20px;}
+            .populer_text h1 {
+                font-size: 24px;}
+                .fun_text h1 {
+                    font-size: 23px;}
+                    .chilly_text {
+                        top: 21%;}
+                        .chilly_text h1{
+                            font-size: 24px;}
+                            .tasty_burger2 img {
+                                width: 91%;
+                            }
+                            .burger_item h1 {
+                                font-size: 25px;
+                                font-weight: 700;}
+                                .burger_item h3 {
+                                    font-size: 23px;}
+                                .btn-order {
+                                    font-size: 19px;
+                                    padding: 10px 18px;}
+                                    .reservation-form {
+                                        margin-top: -23%;}
+                                        .form-group a {
+                                            color: #fff !important;
+                                            font-size: 18px !important;;
+                                            padding: 16px 47px;
+                                            width: 94%;}
+                                            .reservation {
+                                                min-height: 48vh;}
+                                                .footer_logo p {
+                                                    font-size: 16px;}
+                                                    .location p {
+                                                        margin-left: 34px;
+                                                        font-size: 17px;}
+                                        }
+    .header_content p {
+        font-size: 16px;}
+        .burger h1 {
+            font-size: 68px;}
+            .heading_burger {
+                padding-top: 61px;
+            }
+            .pricing_plan {
+                top: 81%;
+            }
+            .pricing_plan img {
+                width: 75%;
+            }
+}
+@media (min-width: 0px) and (max-width: 575px){
+    .header_content {
+         text-align: center;}
+    .header_content p {
+        font-size: 17px;
+        text-align: center;
+    }
+    .reservation-form {
+        display: initial;
+    }
+    .burger h1 {
+        font-size: 89px;
+        text-align: center;
+    }
+    .burger h3 {
+        font-size: 50px;
+        text-align: center;
+    }
+    .heading_burger {
+        width: 83%;
+        text-align: center;
+    }
+    .pricing_plan img {
+        width: 63%;}
+        .populer_burger img {
+            width: 98% !important;
+        }
+        .fun-burger {
+            margin-top: 333px;
+        }
+        .burger_item p {
+            text-align: center;
+        }
+        .discover h3, .discover h1, .discover p{
+            text-align: center;
+        }
+        form{
+            margin-top: -128px;
+        }
+        footer{
+            margin: -104px 16px;
+        }
+        .footer_logo{
+            text-align: center;
+
+        }
+        .location{
+
+            margin-top: 30px;
+            margin-left: 118px;
+            }
+            .location p{
+                font-size: 23px;
+                margin-left: -4px;
+            }
+            .heading_bottom h5{
+                
+                font-size: 18px;
+                text-align: center;
+                }
+                .icon{
+                    text-align: center;
+                    margin-top: -32px;
+                    }
+        
+}
+@media (min-width: 0px) and (max-width: 425px){
+    .burger h1 {
+        font-size: 60px;}
+        .burger h3 {
+            font-size: 45px;}
+            .fun-burger {
+                margin-top: 234px;
+            }
+            .form-group a{
+                color: #fff !important;
+                font-size: 16px;
+            }
+            .footer_logo img {
+                width: 85%;
+            }
+            .location p {
+                font-size: 20px;
+                margin-left: -68px;
+            }
+}
+@media (min-width: 0px) and (max-width: 375px){
+    .navbar-brand {
+        width: 68% !important;}
+        .populer_text h1 {
+            font-size: 24px;
+        }
+        .fun-burger {
+            margin-top: 206px;
+        }
+        .fun_text h1 {
+            font-size: 27px;
+        }
+        .fun_text {
+            top: 8%;
+            margin-left: 7%;}
+            .chilly_text {
+                top: 23%;
+                margin-left: 7%;}
+                .chilly_text h1 {
+                    font-size: 32px;}
+                    .burger_item h1{
+                        font-size: 34px;
+                    }
+                    .form-group a {
+                        font-size: 16px;}
+                        footer{
+                            margin: -85px 16px;}
+    }
+    @media (min-width: 0px) and (max-width: 320px){
+        .header_content p {
+            font-size: 14px;}
+            .burger h1 {
+                font-size: 52px;}
+                .burger h3 {
+                    font-size: 40px;
+                }
+                .heading_burger {
+                    width: 93%;}
+                    .populer_text {
+                        top: 11%;}
+                        .populer_text h4 {
+                            font-size: 16px;}
+                            .populer_text h1 {
+                                font-size: 19px;}
+                                .fun_text {
+                                    top: 8%;}
+                                    .fun_text h4 {
+                                        font-size: 16px;}
+                                        .fun_text h1 {
+                                            font-size: 20px;
+                                        }
+                                        .chilly_text h4 {
+                                            font-size: 16px;}
+                                            .chilly_text h1 {
+                                                font-size: 25px;}
+                                                .burger_item h1 {
+                                                    font-size: 29px;
+                                                }
+                                                .location {
+                                                    margin-left: 117px;}
+                                                    .location p {
+                                                        font-size: 16px;
+                                                        margin-left: -95px;
+                                                    }
+        
+    }
